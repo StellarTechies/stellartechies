@@ -25,9 +25,7 @@
 			</nav><!-- .footer-navigation -->
 		<?php endif; ?>
 		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'goran' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'goran' ), 'WordPress' ); ?></a>
-			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'goran' ), 'Goran', '<a href="http://wordpress.com/themes/" rel="designer">WordPress.com</a>' ); ?>
+			Copyright 2015, Stellar Techies, Inc.  All Rights Reserved.
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
